@@ -1,0 +1,12 @@
+h4, .btn {
+    font-family: 'orbitron',sans-serif;
+}
+.row{
+    font-family: 'Hedvig Letters Serif', serif;
+}
+h1{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Hedvig Letters Serif', serif;
+}
